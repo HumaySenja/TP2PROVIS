@@ -2,16 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+# TP2PROVIS
+kelompok3
+halaman ini dipake untuk menampilkan obat yang bisa dicari dan difilter, jadi saat obatnya diklik nanti bakal ke halaman informasi obat
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# TP2PROVIS" 
+![Screenshot 2024-03-29 124844](https://github.com/HumaySenja/TP2PROVIS/assets/159203684/784f847e-4874-4399-a094-b0de178a5061)
